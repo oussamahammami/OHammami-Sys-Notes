@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [OHammami Sys Notes](#ohammami-sys-notes)
+- [Sys Notes](#sys-notes)
   - [MySQL Notes](#mysql-notes)
     - [How do I make sure that BOTH my server and MYSQL have the same timezone?](#how-do-i-make-sure-that-both-my-server-and-mysql-have-the-same-timezone)
     - [Log all queries in mysql for a session](#log-all-queries-in-mysql-for-a-session)
@@ -32,7 +32,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-OHammami Sys Notes
+Sys Notes
 =================
 
 This repo contains my tips, tricks, and notes that I have found useful and tricky to remember.
