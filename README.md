@@ -37,7 +37,7 @@ OHammami Sys Notes
 
 This repo contains my tips, tricks, and notes that I have found useful and tricky to remember.
 
-Because I enjoy copy & past !
+Because I enjoy copy & paste !
 
 ## MySQL Notes
 
